@@ -1,0 +1,41 @@
+#=========================================================
+#    config.yaml
+#    Basiksense Gateway provision on TB Cloud
+#    Created: 16 Nov 2021
+#    Version: 1.0
+#    Author: Abhijit Deshpande
+#    EMON - Configurations for the emon residential electricity meter simulator
+#    (c) Basiksense Technologies Pvt. Ltd.
+#=========================================================*/
+
+devices:
+  washing_machine:
+    count: 1
+    power: 500  # Watts
+  refrigerator:
+    count: 1
+    power: 150  # Watts
+  water_heater:
+    count: 1
+    power: 2000  # Watts
+  ac:
+    count: 2
+    power: 1500  # Watts
+  tubelight:
+    count: 4
+    power: 20  # Watts
+  fan:
+    count: 3
+    power: 50  # Watts
+  led_light:
+    count: 5
+    power: 10  # Watts
+  tv:
+    count: 1
+    power: 100  # Watts
+  laptop:
+    count: 2
+    power: 60  # Watts
+num_readings: 10000 # Total number of readings to generate
+frequency_seconds: 1 # Frequency of updates in seconds
+output_file: "readings10k.json" # Output file to store the readings

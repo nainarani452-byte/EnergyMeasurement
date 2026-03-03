@@ -1,0 +1,692 @@
+[
+    {
+        "timestamp": 1736348329.3968158,
+        "devices": [
+            {
+                "device": "washing_machine",
+                "count": 1,
+                "voltage": 228.57,
+                "current": 2.19,
+                "energy_wh": 0.1389
+            },
+            {
+                "device": "refrigerator",
+                "count": 1,
+                "voltage": 228.74,
+                "current": 0.66,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "water_heater",
+                "count": 1,
+                "voltage": 227.1,
+                "current": 8.81,
+                "energy_wh": 0.5556
+            },
+            {
+                "device": "ac",
+                "count": 2,
+                "voltage": 222.37,
+                "current": 6.75,
+                "energy_wh": 0.8333
+            },
+            {
+                "device": "tubelight",
+                "count": 4,
+                "voltage": 215.93,
+                "current": 0.09,
+                "energy_wh": 0.0222
+            },
+            {
+                "device": "fan",
+                "count": 3,
+                "voltage": 218.72,
+                "current": 0.23,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "led_light",
+                "count": 5,
+                "voltage": 222.08,
+                "current": 0.05,
+                "energy_wh": 0.0139
+            },
+            {
+                "device": "tv",
+                "count": 1,
+                "voltage": 214.27,
+                "current": 0.47,
+                "energy_wh": 0.0278
+            },
+            {
+                "device": "laptop",
+                "count": 2,
+                "voltage": 218.87,
+                "current": 0.27,
+                "energy_wh": 0.0333
+            }
+        ],
+        "aggregate_energy_wh": 2.7806
+    },
+    {
+        "timestamp": 1736348330.402401,
+        "devices": [
+            {
+                "device": "washing_machine",
+                "count": 1,
+                "voltage": 226.72,
+                "current": 2.21,
+                "energy_wh": 0.1389
+            },
+            {
+                "device": "refrigerator",
+                "count": 1,
+                "voltage": 229.3,
+                "current": 0.65,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "water_heater",
+                "count": 1,
+                "voltage": 220.45,
+                "current": 9.07,
+                "energy_wh": 0.5556
+            },
+            {
+                "device": "ac",
+                "count": 2,
+                "voltage": 229.92,
+                "current": 6.52,
+                "energy_wh": 0.8333
+            },
+            {
+                "device": "tubelight",
+                "count": 4,
+                "voltage": 224.65,
+                "current": 0.09,
+                "energy_wh": 0.0222
+            },
+            {
+                "device": "fan",
+                "count": 3,
+                "voltage": 215.88,
+                "current": 0.23,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "led_light",
+                "count": 5,
+                "voltage": 216.01,
+                "current": 0.05,
+                "energy_wh": 0.0139
+            },
+            {
+                "device": "tv",
+                "count": 1,
+                "voltage": 226.0,
+                "current": 0.44,
+                "energy_wh": 0.0278
+            },
+            {
+                "device": "laptop",
+                "count": 2,
+                "voltage": 215.42,
+                "current": 0.28,
+                "energy_wh": 0.0333
+            }
+        ],
+        "aggregate_energy_wh": 5.5612
+    },
+    {
+        "timestamp": 1736348331.407524,
+        "devices": [
+            {
+                "device": "washing_machine",
+                "count": 1,
+                "voltage": 217.05,
+                "current": 2.3,
+                "energy_wh": 0.1389
+            },
+            {
+                "device": "refrigerator",
+                "count": 1,
+                "voltage": 225.54,
+                "current": 0.67,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "water_heater",
+                "count": 1,
+                "voltage": 215.66,
+                "current": 9.27,
+                "energy_wh": 0.5556
+            },
+            {
+                "device": "ac",
+                "count": 2,
+                "voltage": 219.85,
+                "current": 6.82,
+                "energy_wh": 0.8333
+            },
+            {
+                "device": "tubelight",
+                "count": 4,
+                "voltage": 210.67,
+                "current": 0.09,
+                "energy_wh": 0.0222
+            },
+            {
+                "device": "fan",
+                "count": 3,
+                "voltage": 219.48,
+                "current": 0.23,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "led_light",
+                "count": 5,
+                "voltage": 226.33,
+                "current": 0.04,
+                "energy_wh": 0.0139
+            },
+            {
+                "device": "tv",
+                "count": 1,
+                "voltage": 219.07,
+                "current": 0.46,
+                "energy_wh": 0.0278
+            },
+            {
+                "device": "laptop",
+                "count": 2,
+                "voltage": 229.61,
+                "current": 0.26,
+                "energy_wh": 0.0333
+            }
+        ],
+        "aggregate_energy_wh": 8.3418
+    },
+    {
+        "timestamp": 1736348332.411165,
+        "devices": [
+            {
+                "device": "washing_machine",
+                "count": 1,
+                "voltage": 218.99,
+                "current": 2.28,
+                "energy_wh": 0.1389
+            },
+            {
+                "device": "refrigerator",
+                "count": 1,
+                "voltage": 221.18,
+                "current": 0.68,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "water_heater",
+                "count": 1,
+                "voltage": 214.87,
+                "current": 9.31,
+                "energy_wh": 0.5556
+            },
+            {
+                "device": "ac",
+                "count": 2,
+                "voltage": 220.93,
+                "current": 6.79,
+                "energy_wh": 0.8333
+            },
+            {
+                "device": "tubelight",
+                "count": 4,
+                "voltage": 226.03,
+                "current": 0.09,
+                "energy_wh": 0.0222
+            },
+            {
+                "device": "fan",
+                "count": 3,
+                "voltage": 227.95,
+                "current": 0.22,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "led_light",
+                "count": 5,
+                "voltage": 220.35,
+                "current": 0.05,
+                "energy_wh": 0.0139
+            },
+            {
+                "device": "tv",
+                "count": 1,
+                "voltage": 216.21,
+                "current": 0.46,
+                "energy_wh": 0.0278
+            },
+            {
+                "device": "laptop",
+                "count": 2,
+                "voltage": 211.25,
+                "current": 0.28,
+                "energy_wh": 0.0333
+            }
+        ],
+        "aggregate_energy_wh": 11.1224
+    },
+    {
+        "timestamp": 1736348333.4157262,
+        "devices": [
+            {
+                "device": "washing_machine",
+                "count": 1,
+                "voltage": 225.86,
+                "current": 2.21,
+                "energy_wh": 0.1389
+            },
+            {
+                "device": "refrigerator",
+                "count": 1,
+                "voltage": 223.76,
+                "current": 0.67,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "water_heater",
+                "count": 1,
+                "voltage": 220.63,
+                "current": 9.06,
+                "energy_wh": 0.5556
+            },
+            {
+                "device": "ac",
+                "count": 2,
+                "voltage": 213.24,
+                "current": 7.03,
+                "energy_wh": 0.8333
+            },
+            {
+                "device": "tubelight",
+                "count": 4,
+                "voltage": 218.04,
+                "current": 0.09,
+                "energy_wh": 0.0222
+            },
+            {
+                "device": "fan",
+                "count": 3,
+                "voltage": 210.43,
+                "current": 0.24,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "led_light",
+                "count": 5,
+                "voltage": 224.63,
+                "current": 0.04,
+                "energy_wh": 0.0139
+            },
+            {
+                "device": "tv",
+                "count": 1,
+                "voltage": 224.41,
+                "current": 0.45,
+                "energy_wh": 0.0278
+            },
+            {
+                "device": "laptop",
+                "count": 2,
+                "voltage": 211.48,
+                "current": 0.28,
+                "energy_wh": 0.0333
+            }
+        ],
+        "aggregate_energy_wh": 13.903
+    },
+    {
+        "timestamp": 1736348334.4162219,
+        "devices": [
+            {
+                "device": "washing_machine",
+                "count": 1,
+                "voltage": 212.07,
+                "current": 2.36,
+                "energy_wh": 0.1389
+            },
+            {
+                "device": "refrigerator",
+                "count": 1,
+                "voltage": 223.24,
+                "current": 0.67,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "water_heater",
+                "count": 1,
+                "voltage": 227.82,
+                "current": 8.78,
+                "energy_wh": 0.5556
+            },
+            {
+                "device": "ac",
+                "count": 2,
+                "voltage": 213.29,
+                "current": 7.03,
+                "energy_wh": 0.8333
+            },
+            {
+                "device": "tubelight",
+                "count": 4,
+                "voltage": 220.82,
+                "current": 0.09,
+                "energy_wh": 0.0222
+            },
+            {
+                "device": "fan",
+                "count": 3,
+                "voltage": 229.2,
+                "current": 0.22,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "led_light",
+                "count": 5,
+                "voltage": 215.15,
+                "current": 0.05,
+                "energy_wh": 0.0139
+            },
+            {
+                "device": "tv",
+                "count": 1,
+                "voltage": 229.22,
+                "current": 0.44,
+                "energy_wh": 0.0278
+            },
+            {
+                "device": "laptop",
+                "count": 2,
+                "voltage": 228.13,
+                "current": 0.26,
+                "energy_wh": 0.0333
+            }
+        ],
+        "aggregate_energy_wh": 16.6836
+    },
+    {
+        "timestamp": 1736348335.421643,
+        "devices": [
+            {
+                "device": "washing_machine",
+                "count": 1,
+                "voltage": 227.12,
+                "current": 2.2,
+                "energy_wh": 0.1389
+            },
+            {
+                "device": "refrigerator",
+                "count": 1,
+                "voltage": 217.23,
+                "current": 0.69,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "water_heater",
+                "count": 1,
+                "voltage": 220.48,
+                "current": 9.07,
+                "energy_wh": 0.5556
+            },
+            {
+                "device": "ac",
+                "count": 2,
+                "voltage": 219.09,
+                "current": 6.85,
+                "energy_wh": 0.8333
+            },
+            {
+                "device": "tubelight",
+                "count": 4,
+                "voltage": 221.56,
+                "current": 0.09,
+                "energy_wh": 0.0222
+            },
+            {
+                "device": "fan",
+                "count": 3,
+                "voltage": 222.44,
+                "current": 0.22,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "led_light",
+                "count": 5,
+                "voltage": 215.79,
+                "current": 0.05,
+                "energy_wh": 0.0139
+            },
+            {
+                "device": "tv",
+                "count": 1,
+                "voltage": 212.65,
+                "current": 0.47,
+                "energy_wh": 0.0278
+            },
+            {
+                "device": "laptop",
+                "count": 2,
+                "voltage": 219.87,
+                "current": 0.27,
+                "energy_wh": 0.0333
+            }
+        ],
+        "aggregate_energy_wh": 19.4642
+    },
+    {
+        "timestamp": 1736348336.422954,
+        "devices": [
+            {
+                "device": "washing_machine",
+                "count": 1,
+                "voltage": 212.66,
+                "current": 2.35,
+                "energy_wh": 0.1389
+            },
+            {
+                "device": "refrigerator",
+                "count": 1,
+                "voltage": 225.92,
+                "current": 0.66,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "water_heater",
+                "count": 1,
+                "voltage": 225.82,
+                "current": 8.86,
+                "energy_wh": 0.5556
+            },
+            {
+                "device": "ac",
+                "count": 2,
+                "voltage": 225.96,
+                "current": 6.64,
+                "energy_wh": 0.8333
+            },
+            {
+                "device": "tubelight",
+                "count": 4,
+                "voltage": 213.5,
+                "current": 0.09,
+                "energy_wh": 0.0222
+            },
+            {
+                "device": "fan",
+                "count": 3,
+                "voltage": 220.13,
+                "current": 0.23,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "led_light",
+                "count": 5,
+                "voltage": 223.42,
+                "current": 0.04,
+                "energy_wh": 0.0139
+            },
+            {
+                "device": "tv",
+                "count": 1,
+                "voltage": 219.87,
+                "current": 0.45,
+                "energy_wh": 0.0278
+            },
+            {
+                "device": "laptop",
+                "count": 2,
+                "voltage": 220.54,
+                "current": 0.27,
+                "energy_wh": 0.0333
+            }
+        ],
+        "aggregate_energy_wh": 22.2448
+    },
+    {
+        "timestamp": 1736348337.4246268,
+        "devices": [
+            {
+                "device": "washing_machine",
+                "count": 1,
+                "voltage": 210.57,
+                "current": 2.37,
+                "energy_wh": 0.1389
+            },
+            {
+                "device": "refrigerator",
+                "count": 1,
+                "voltage": 212.19,
+                "current": 0.71,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "water_heater",
+                "count": 1,
+                "voltage": 225.42,
+                "current": 8.87,
+                "energy_wh": 0.5556
+            },
+            {
+                "device": "ac",
+                "count": 2,
+                "voltage": 217.77,
+                "current": 6.89,
+                "energy_wh": 0.8333
+            },
+            {
+                "device": "tubelight",
+                "count": 4,
+                "voltage": 221.74,
+                "current": 0.09,
+                "energy_wh": 0.0222
+            },
+            {
+                "device": "fan",
+                "count": 3,
+                "voltage": 228.03,
+                "current": 0.22,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "led_light",
+                "count": 5,
+                "voltage": 227.2,
+                "current": 0.04,
+                "energy_wh": 0.0139
+            },
+            {
+                "device": "tv",
+                "count": 1,
+                "voltage": 221.44,
+                "current": 0.45,
+                "energy_wh": 0.0278
+            },
+            {
+                "device": "laptop",
+                "count": 2,
+                "voltage": 224.83,
+                "current": 0.27,
+                "energy_wh": 0.0333
+            }
+        ],
+        "aggregate_energy_wh": 25.0254
+    },
+    {
+        "timestamp": 1736348338.426093,
+        "devices": [
+            {
+                "device": "washing_machine",
+                "count": 1,
+                "voltage": 225.05,
+                "current": 2.22,
+                "energy_wh": 0.1389
+            },
+            {
+                "device": "refrigerator",
+                "count": 1,
+                "voltage": 214.15,
+                "current": 0.7,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "water_heater",
+                "count": 1,
+                "voltage": 214.41,
+                "current": 9.33,
+                "energy_wh": 0.5556
+            },
+            {
+                "device": "ac",
+                "count": 2,
+                "voltage": 218.48,
+                "current": 6.87,
+                "energy_wh": 0.8333
+            },
+            {
+                "device": "tubelight",
+                "count": 4,
+                "voltage": 218.92,
+                "current": 0.09,
+                "energy_wh": 0.0222
+            },
+            {
+                "device": "fan",
+                "count": 3,
+                "voltage": 213.76,
+                "current": 0.23,
+                "energy_wh": 0.0417
+            },
+            {
+                "device": "led_light",
+                "count": 5,
+                "voltage": 227.91,
+                "current": 0.04,
+                "energy_wh": 0.0139
+            },
+            {
+                "device": "tv",
+                "count": 1,
+                "voltage": 215.07,
+                "current": 0.46,
+                "energy_wh": 0.0278
+            },
+            {
+                "device": "laptop",
+                "count": 2,
+                "voltage": 229.97,
+                "current": 0.26,
+                "energy_wh": 0.0333
+            }
+        ],
+        "aggregate_energy_wh": 27.806
+    }
+]
